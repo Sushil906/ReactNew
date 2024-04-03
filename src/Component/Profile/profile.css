@@ -1,0 +1,26 @@
+
+
+#flexContainer{
+
+    width: 800px;
+    height: 400px;
+    box-shadow: 0 0 10px purple;
+    margin: 100px auto;
+    display: flex;
+}
+
+.left{
+    background-color: burlywood;
+    width: 30%;
+
+}
+.right {
+background-color: rgb(233, 171, 171);
+
+width: 70%;
+
+}
+
+.right button{
+    background-color: aquamarine;
+}
